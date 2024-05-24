@@ -1,0 +1,5 @@
+SQL project
+download credit card transactions dataset from below link :
+https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+
+while importing make sure to change the data types of columns. by defualt it shows everything as varchar.
